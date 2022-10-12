@@ -5,7 +5,7 @@
 + Second open the files : :point_right:[My Docs](https://muka6363.github.io/React_Project-2/)
 + You can use this tutorial :point_right:[VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 
-![image](![image](https://user-images.githubusercontent.com/101215803/195388081-390db97e-255c-452b-9398-5148cb48b48d.png)
+![image](https://user-images.githubusercontent.com/101215803/195388081-390db97e-255c-452b-9398-5148cb48b48d.png)
 
 ## Overview
 I mastered React, HTML-CSS features in this project. You can see the visual representation of the website above.
@@ -15,7 +15,7 @@ I mastered React, HTML-CSS features in this project. You can see the visual repr
 
 
 ## Visualization of the Website
-![image](https://github.com/Muka6363/React_Project-2/blob/main/public/React_Project_2.gif)
+![image](https://github.com/Muka6363/React_Project-2/blob/main/public/React_Project-2.gif)
 
 
 ## Project Skeleton
