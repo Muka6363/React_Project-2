@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.navbar {
+  font-family: "Lobster", cursive;
+  background-color: rgba(104, 6, 197, 0.856);
+  color: white;
+  border-bottom: 10px solid white;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2rem auto;
+  font-size: 2rem;
+}
+.nav-link {
+  margin: 0 5rem;
+}
+
+.nav-link:hover {
+  color: aqua;
+  text-decoration: underline;
+}
